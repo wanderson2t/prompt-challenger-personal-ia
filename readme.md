@@ -122,7 +122,7 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 
 ## 🎯 Prompt de Resposta Proposto
 
-
+|Acrecidos restrição de exercicos e indicação de alimentos|
 
 
 
