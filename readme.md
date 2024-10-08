@@ -121,3 +121,85 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+
+
+
+
+### Assistente de Personal Trainer - Gerador de Treino Ideal
+
+#### 1. Identificação do Biotipo Corporal
+**Por favor, identifique seu biotipo corporal consultando a seção de biotipos:**
+
+{{  Seu tipo de corpo
+
+1 - Treinos de força e resistência — biotipo ectomorfo
+Os exercícios físicos focados no aumento da massa muscular requerem força, por isso, estão associados ao levantamento de peso. A musculação é o exercício de força mais praticado atualmente e é a solução ideal para quem está em busca de hipertrofia.
+
+Essa é a solução mais indicada para o grupo dos ectomorfos, uma vez que essas pessoas têm dificuldade em aumentar a massa corporal. O treino não deve ser excessivo, para não favorecer a queima de gordura. Veja outras dicas para esse perfil:
+
+é importante focar em pegar mais peso e fazer menos repetições;
+o intervalo de descanso entre cada treino é extremamente importante para não sobrecarregar os músculos e deve ser maior nesse caso;
+outro ponto importante é que as pessoas pertencentes a este grupo devem evitar exercícios cardiorrespiratórios, já que eles favorecem a queima de gordura e perda de peso.
+Os ectomorfos também têm um desempenho muito bom em exercícios que necessitam de resistência, com perfil mais atlético ou maratonista. Não é à toa que existem tanto atletas que pertencem a esse grupo.
+
+2 - Combinação entre força e cardio — biotipo endomorfo
+As pessoas do grupo dos endomorfos precisam perder peso, enquanto fortalecem a musculatura. Por isso, o ideal é que haja a junção de atividades cardiorrespiratórias com o levantamento de peso.
+
+É importante colocar intensidade no levantamento de peso, para acelerar o metabolismo, no entanto, evite o excesso de peso associado a poucas repetições. É importante movimentar todas as partes do corpo, por isso, sempre reserve um tempo para a dança, corrida ou HIT.
+
+Como os endomorfos tendem a ser mais pesados, é importante escolher exercícios de baixo impacto, para não forçar as articulações.
+
+3 - Variação de exercícios físicos — biotipo mesomorfo
+A variação de exercícios físicos é a melhor solução para o grupo dos mesomorfos, já que essas pessoas podem queimar gordura e ganhar massa muscular com facilidade. Quem se enquadra nessa realidade tem mais liberdade para escolher os tipos de exercícios físicos que deseja praticar.
+
+É possível optar pelo levantamento de peso — seja ele leve, moderado ou pesado — pelo trabalho com o peso do próprio corpo e também com os exercícios cardiorrespiratórios. Em geral, é possível manter uma rotina com foco e força e uma pequena variação de cardio, mas isso vai depender dos seus objetivos.
+
+Esse também é o biotipo adequado de quem aprecia o fisiculturismo, já que os mesomorfos alcançam uma boa explosão muscular.
+
+}}
+
+opções:
+
+- Ectomorfo
+- Mesomorfo
+- Endomorfo
+
+**Resposta: ** [mesomorfo]
+
+
+#### 2. Determinação da Frequência de Treino
+**Quantos dias por semana você pode treinar?**
+- 3 dias
+- 4 dias
+- 5 dias
+- 6 dias
+
+**Resposta:** [5]
+
+#### 3. Seleção do Tipo de Exercício
+**Qual tipo de exercício você prefere realizar e que se encaixa melhor nos seus objetivos?**
+- Musculação
+- Cardio
+- HIIT
+- Yoga
+- Outro (especifique)
+
+**Resposta:** [musculação]
+
+#### 4. Geração do Plano de Treino Personalizado
+**Por favor, insira suas preferências e objetivos (ex: perda de peso, ganho de massa muscular, melhora da flexibilidade, etc.):**
+
+**Resposta:** [ganho de massa muscular]
+
+#### 5. Possui restrição a exercícios físicos? se sim qual?
+**Resposta:** [sim, saudades da morena]
+
+#### 6. indique alimentos que me ajudará na evolução dos treinos 
+
+---
+
+
+
+
+com base nessas informações gere um plano de treino personalizado. use a explicação do tipo de corpo antes de informar o plano de treino e uma breve recomendação para consultar um medico ou profissional de musculação.
